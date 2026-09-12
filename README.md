@@ -4,7 +4,7 @@ A modern implementation of the classic Tenzies dice game built with **React 19**
 
 ![React](https://img.shields.io/badge/React-19.2.4-blue)
 ![Vite](https://img.shields.io/badge/Vite-8.0.0-purple)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 ---
 
